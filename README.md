@@ -1,4 +1,4 @@
-# -Student-Grade-Calculator-
+# Student Grade-Calculator
 Java Console Project
 
 import java.util.Scanner;
